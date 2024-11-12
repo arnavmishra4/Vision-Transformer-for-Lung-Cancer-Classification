@@ -60,5 +60,5 @@ The project is divided into the following steps:
 Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/lung-cancer-classification-vit.git
-cd lung-cancer-classification-vit
+git clone https://github.com/arnavmishra4/Vision-Transformer-for-Lung-Cancer-Classification.git
+cd Vision-Transformer-for-Lung-Cancer-Classification
